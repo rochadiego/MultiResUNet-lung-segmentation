@@ -1,7 +1,7 @@
 # MultiResUNet 
 #### Rethinking the U-Net architecture for multimodal biomedical image segmentation
 
-This repository contains the original implementation of "MultiResUNet : Rethinking the U-Net architecture for multimodal biomedical image segmentation" in Keras (Tensorflow as backend).
+This repository contains the original implementation of "MultiResUNet : Rethinking the U-Net architecture for multimodal biomedical image segmentation" in Tensorflow 2.
 
 Thanks https://github.com/nibtehaz/MultiResUNet
 
@@ -19,4 +19,4 @@ MultiResUNet has been published in Neural Networks
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-[MIT license](https://github.com/nibtehaz/MultiResUNet/blob/master/LICENSE)
+[MIT license](https://github.com/diego98martins/MultiResUNet-lung-segmentation/blob/master/LICENCE)
