@@ -1,3 +1,23 @@
+# Documentation
+
+## Files
+* Train.ipynb - Train the model
+* Test.ipynb - Test the model, predict all images in a folder and save them
+* Prediction.ipynb - Predict an single image, improve the quality and plot
+
+## Folders
+
+### Data
+* data/cxr - Chest X-ray images to train
+* data/masks - Chest X-ray masks to train
+* data/test - Chest X-ray images for testing from same train dataset
+* data/production - Chest X-ray images for testing from different dataset
+
+### Root
+* models - Model file, weights and jacard index
+* predictions - Predictions from Test.ipynb
+* results - Self-evaluation during train
+
 # MultiResUNet 
 #### Rethinking the U-Net architecture for multimodal biomedical image segmentation
 
